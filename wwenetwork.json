@@ -574,5 +574,32 @@
       "The 1-2-3 Kid & Bob Holly vs. Bam Bam Bigelow & Tatanka (WWF Tag Team Championship)",
       "1995 Royal Rumble Match"
     ]
+  },
+  {
+    "ppv_name": "Wrestlemania XI",
+    "date": "04/02/1995",
+    "location": "Hartford, CT",
+    "matches": [
+      "The Allied Powers vs. The Blu Brothers",
+      "Razor Ramon vs. Jeff Jarrett (WWF Intercontinental Championship)",
+      "The Undertaker vs. King Kong Bundy",
+      "Owen Hart & Yokozuna vs. The Smoking Gunns (WWF Tag Team Championship)",
+      "Bret Hart vs. Bob Backlund",
+      "Diesel vs. Shawn Michaels (WWF World Heavyweight Championship)",
+      "Lawrence Taylor vs. Bam Bam Bigelow"
+    ]
+  },
+  {
+    "ppv_name": "In Your House #1",
+    "date": "05/14/1995",
+    "location": "Syracuse, NY",
+    "matches": [
+      "Bret Hart vs. Hakushi",
+      "Razor Ramon vs. Jeff Jarrett & The Roadie",
+      "Mabel vs. Adam Bomb",
+      "Owen Hart & Yokozuna vs. The Smoking Gunns (WWF Tag Team Championship)",
+      "Jerry Lawler vs. Bret Hart",
+      "Diesel vs. Sycho Sid (WWF World Heavyweight Championship)"
+    ]
   }
 ]
