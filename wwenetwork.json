@@ -974,7 +974,7 @@
       "Tiger Ali Singh vs. Leif Cassidy",
       "The Headbangers vs. Los Boricuas (WWF Tag Team Championship)",
       "The Patriot vs. Flash Funk",
-      "The Legion of DOom vs. The Godwinns",
+      "The Legion of Doom vs. The Godwinns",
       "Vader vs. Owen Hart",
       "Bret Hart vs. The Undertaker (WWF World Heavyweight Championship)",
       "Shawn Michaels vs. The British Bulldog (WWF European Championship)"
@@ -1021,6 +1021,207 @@
       "Jeff Jarrett vs. The Undertaker",
       "Stone Cold Steve Austin vs. The ROck (WWF Intercontinental Championship)",
       "Ken Shamrock vs. Shawn Michaels (WWF World Heavyweight Championship)"
+    ]
+  },
+  {
+    "ppv_name": "Royal Rumble 1998",
+    "date": "01/18/1998",
+    "location": "San Jose, CA",
+    "matches": [
+      "Vader vs. Goldust",
+      "Max Mini, Moasic & Nova vs. Battalion, El Torito & Tarantula",
+      "The Rock vs. Ken Shamrock (WWF Intercontinental Championship)",
+      "The Legion of Doom vs. The New Age Outlaws (WWF Tag Team Championship)",
+      "1998 Royal Rumble Match",
+      "Shawn Michaels vs. The Undertaker (WWF World Heavyweight Championship)"
+    ]
+  },
+  {
+    "ppv_name": "Now Way Out of Texas: In Your House",
+    "date": "02/15/1998",
+    "location": "Houston, TX",
+    "matches": [
+      "The Headbangers vs. Goldust & Marc Mero",
+      "Taka Michinoku vs. Pantera (WWF Light Heavyweight Championship)",
+      "The Godwinns vs. The Quebecers",
+      "Justin Bradshaw vs. Jeff Jarrett (NWA North American Heavyweight Championship)",
+      "Ahmed Johnson, The Disciplies of Apocalypse & Ken Shamrock vs. The Nation of Domination",
+      "Kane vs. Vader",
+      "Cactus Jack, Chainsaw Charlie, Owen Hart & Stone Cold Steve Austin vs. The New Age Outlaws, Savio Vega & Triple H"
+    ]
+  },
+  {
+    "ppv_name": "Wrestlemania XIV",
+    "date": "03/29/1998",
+    "location": "Boston, MA",
+    "matches": [
+      "Tag Team Battle Royal",
+      "Taka Michinoku vs. Aguila (WWF Light Heavyweight Championship)",
+      "Triple H vs. Owen Hart (WWF European Championship)",
+      "Marc Mero & Sable vs. Goldust & Luna",
+      "The Rock vs. Ken Shamrock (WWF Intercontinental Championship)",
+      "Cactus Jack & Chainsaw Charlie vs. The New Age Outlaws (WWF Tag Team Championship)",
+      "The Undertaker vs. Kane",
+      "Stone Cold Steve Austin vs. Shawn Michaels (WWF World Heavyweight Championship)"
+    ]
+  },
+  {
+    "ppv_name": "Unforgiven: In Your House",
+    "date": "04/26/1998",
+    "location": "Greensboro, NC",
+    "matches": [
+      "Faarooq, Ken Shamrock, & Steve Blackman vs. The Nation",
+      "Triple H vs. Owen Hart (WWF European Championship)",
+      "The New Midnight Express vs. The Rock 'n' Roll Express (NWA World Tag Team Championship)",
+      "Luna vs. Sable",
+      "The New Age Outlaws vs. LOD 2000 (WWF Tag Team Championship)",
+      "The Undertaker vs. Kane",
+      "Dude Love vs. Stone Cold Steve Austin (WWF Championship)"
+    ]
+  },
+  {
+    "ppv_name": "King of the Ring 1998",
+    "date": "06/28/1998",
+    "location": "Pittsburgh, PA",
+    "matches": [
+      "The Headbangers vs. Taka Michinoku & Kaientai",
+      "Ken Shamrock vs. Jeff Jarrett",
+      "The Rock vs. Dan Severn",
+      "Too Much vs. Al Snow & Head",
+      "X-Pac vs. Owen Hart",
+      "The New Age Outlaws vs. The New Midnight Express (WWF Tag Team Championship)",
+      "Ken Shamrock vs. The Rock (KOTR Final)",
+      "The Undertaker vs. Mankind",
+      "Kane vs. Stone Cold Steve Austin"
+    ]
+  },
+  {
+    "ppv_name": "Fully Loaded: In Your House",
+    "date": "07/26/1998",
+    "location": "Fresno, CA",
+    "matches": [
+      "Val Venis vs. Jeff Jarrett",
+      "D'Lo Brown vs. X-Pac",
+      "Faarooq & Scorpio vs. Justin Bradshaw & Terry Funk",
+      "Mark Henry vs. Vader",
+      "The Disciples of Apocalypse vs. LOD 2000",
+      "Owen Hart vs. Ken Shamrock",
+      "The Rock vs. Triple H (WWF Intercontinental Championship)",
+      "Jacqueline vs. Sable",
+      "Stone Cold Steve Austin & The Undertaker vs. Kane & Mankind (WWF Tag Team Championship)"
+    ]
+  },
+  {
+    "ppv_name": "Summerslam 1998",
+    "date": "08/30/1998",
+    "location": "New York, NY",
+    "matches": [
+      "D'Lo Brown vs. Val Venis (WWF European Championship)",
+      "The Oddities vs. Kaientai",
+      "X-Pac vs. Jeff Jarrett",
+      "Edge & Sable vs. Jacqueline & Marc Mero",
+      "Ken Shamrock vs. Owen Hart",
+      "The New Age Outlaws vs. Mankind (WWF Tag Team Championship)",
+      "Triple H vs. The Rock (WWF Intercontinental Championship)",
+      "Stone Cold Steve Austin vs. The Undertaker (WWF Championship)"
+    ]
+  },
+  {
+    "ppv_name": "Breakdown: In Your House",
+    "date": "09/27/1998",
+    "location": "Hamilton, ON",
+    "matches": [
+      "Owen Hart vs. Edge",
+      "Al Snow & Scorpio vs. Too Much",
+      "Marc Mero vs. Droz",
+      "Bradshaw vs. Vader",
+      "D'Lo Brown vs. Gangrel",
+      "The Rock vs. Ken Shamrock vs. Mankind",
+      "Val Venis vs. Dustin Runnels",
+      "D-Generation X vs. Jeff Jarrett & Southern Justice",
+      "Kane & The Undertaker vs. Stone Cold Steve Austin (WWF Championship)"
+    ]
+  },
+  {
+    "ppv_name": "Judgment Day: In Your House",
+    "date": "10/18/1998",
+    "location": "Rosemont, IL",
+    "matches": [
+      "Al Snow vs. Marc Mero",
+      "LOD 2000 vs. The Disciples of Apocalypse",
+      "Christian vs. Taka Michinoku (WWF Light Heavyweight Championship)",
+      "Goldust vs. Val Venis",
+      "X-Pac vs. D'Lo Brown (WWF European Championship)",
+      "The Headbangers vs. The New Age Outlaws (WWF Tag Team Championship)",
+      "Ken Shamrock vs. Mankind (WWF Intercontinental Championship)",
+      "Mark Henry vs. The Rock",
+      "Kane vs. The Undertaker (WWF Championship)"
+    ]
+  },
+  {
+    "ppv_name": "Survivor Series 1998",
+    "date": "11/15/1998",
+    "location": "St. Louis, MO",
+    "matches": [
+      "Mankind vs. Duane Gill",
+      "Al Snow vs. Jeff Jarrett",
+      "Stone Cold Steve Austin vs. Big Boss Man",
+      "Steven Regal vs. X-Pac",
+      "Ken Shamrock vs. Goldust",
+      "The Rock vs. Big Boss Man",
+      "The Undertaker vs. Kane",
+      "Mankind vs. Al Snow",
+      "The Rock vs. Ken Shamrock",
+      "Sable vs. Jacqueline (WWF Women's Champinship)",
+      "Mankind vs. Stone Cold Steve Austin",
+      "The Rock vs. The Undertaker",
+      "The New Age Outlaws vs. D'Lo Brown & Mark Henry vs. The Headbangers (WWF Tag Team Championship)",
+      "The Rock vs. Mankind (KOTR Final | WWF Championship)"
+    ]
+  },
+  {
+    "ppv_name": "Capital Carnage",
+    "date": "12/06/1998",
+    "location": "London, England",
+    "matches": [
+      "Gangrel vs. Al Snow",
+      "The Headbangers vs. The Legion of Doom",
+      "Val Venis vs. Goldust",
+      "Tiger Ali Singh vs. Edge",
+      "Christian & Sable vs. Jacqueline & Marc Mero",
+      "Ken Shamrock vs. Steve Blackman (WWF Intercontinental Championship)",
+      "Triple H vs. Jeff Jarrett",
+      "The New Age Outlaws vs. D'Lo Brown & Mark Henry (WWF Tag Team Championship)",
+      "The Rock vs. X-Pac (WWF Championship)",
+      "Stone Cold Steve Austin vs. Kane vs. Mankind vs. The Undertaker"
+    ]
+  },
+  {
+    "ppv_name": "Rock Bottm: In Your House",
+    "date": "12/13/1998",
+    "location": "Vancouver, BC",
+    "matches": [
+      "D'Lo Brown & Mark Henry vs. Supply and Demand",
+      "The Headbangers vs. The Oddities",
+      "Steve Blackman vs. Owen Hart",
+      "The Brood vs. The J.O.B. Squad",
+      "Goldust vs. Jeff Jarrett",
+      "The New Age Outlaws vs. The Corporation (WWF Tag Team Championship)",
+      "Mankind vs. The Rock (WWF Championship)",
+      "Stone Cold Steve Austin vs. The Undertaker"
+    ]
+  },
+  {
+    "ppv_name": "Royal Rumble 1999",
+    "date": "01/24/1999",
+    "location": "Anaheim, CA",
+    "matches": [
+      "Big Boss Man vs. Road Dogg",
+      "Ken Shamrock vs. Billy Gunn (WWF Intercontinental Championship)",
+      "X-Pac vs. Gangrel (WWF European Championship)",
+      "Sable vs. Luna (WWF Women's Championship)",
+      "The Rock vs. Mankind (WWF Championship)",
+      "1999 Royal Rumble Match"
     ]
   }
 ]
